@@ -1,7 +1,7 @@
 ###
-# HealthGuard
+# Patient Risk Prediction System
 
-HealthGuard provides healthcare providers and administrators with powerful analytics to identify at-risk patients, predict disease progression, and allocate resources effectively.
+Patient Risk Prediction System provides healthcare providers and administrators with powerful analytics to identify at-risk patients, predict disease progression, and allocate resources effectively.
 
 ## Installation
 
@@ -29,7 +29,7 @@ HealthGuard provides healthcare providers and administrators with powerful analy
 # Project structure
 
 
-healthguard/
+Patient Risk Prediction System/
 ├── app.py
 ├── data/
 │   ├── patients.csv       # Basic demographic information
