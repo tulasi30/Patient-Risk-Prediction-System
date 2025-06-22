@@ -26,15 +26,3 @@ Patient Risk Prediction System provides healthcare providers and administrators 
       conditions.csv: Medical conditions and diagnoses
       encounters.csv: Hospital visits and encounters
       observations.csv: Clinical observations and measurements
-# Project structure
-
-
-Patient Risk Prediction System/
-├── app.py
-├── data/
-│   ├── patients.csv       # Basic demographic information
-│   ├── conditions.csv     # Diagnosis information
-│   ├── observations.csv   # Clinical measurements like weight, height
-│   ├── encounters.csv     # Visit/clinical encounter information
-│   └── [other data files]
-└── [other project files]
