@@ -22,13 +22,21 @@ The Patient Risk Prediction System is a robust Streamlit-powered web application
 # Technical Stack:
 
 **Programming Language:** Python
-**Web Framework: **Streamlit
+
+**Web Framework:** Streamlit
+
 **Data Manipulation:** Pandas, NumPy
-**Data Visualization: **Matplotlib, Seaborn, Plotly, Altair
+
+**Data Visualization:** Matplotlib, Seaborn, Plotly, Altair
+
 **Machine Learning:** Scikit-learn (Logistic Regression, StandardScaler)
+
 **Time Series Analysis:** Statsmodels (ARIMA)
+
 **Database Interaction (Conceptual):** SQL (for data extraction and validation)
-**Business Intelligence Tool (Conceptual): **Power BI (for effective visual creation)
+
+**Business Intelligence Tool (Conceptual):** Power BI (for effective visual creation)
+
 
 ## Installation
 
