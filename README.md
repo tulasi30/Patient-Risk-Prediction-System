@@ -1,7 +1,7 @@
 ###
 # Patient Risk Prediction System
 
-The Patient Risk Prediction System is a robust Streamlit-powered web application designed to empower healthcare providers and administrators with actionable insights for proactive chronic disease management. Developed as a Master's Research Project, this system facilitates data-driven decision-making by identifying at-risk patients, predicting disease progression, and optimizing resource allocation.
+The Patient Risk Prediction System is a robust Streamlit-powered web application designed to empower healthcare providers and administrators with actionable insights for proactive chronic disease management. The system facilitates data-driven decision-making by identifying at-risk patients, predicting disease progression, and optimizing resource allocation.
 
 # Key Features:
 
